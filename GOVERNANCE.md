@@ -1,6 +1,6 @@
 # Public Case Study | Governance & Evidence Contract
 
-**Authoritative public case study:** This GitHub repository (`FreemanDesigns/groupchat-product-case-study`) · **Public version:** 1.1 · **As-of:** October 26, 2026 · **Owner:** Darryl Earley II.
+**Authoritative public case study:** This GitHub repository (`FreemanDesigns/groupchat-product-case-study`) · **Public version:** 1.1 · **Paired portfolio version:** 1.3 · **As-of:** October 26, 2026 · **Owner:** Darryl Earley II.
 
 **Scope:** Sanitized product-management evidence only. The separate [portfolio site](https://darrylearley.vercel.app/) is a public presentation of selected evidence; it is **not** a competing source for milestone status. Private Jira/Asana and hosted deployment records govern actual product work and acceptance.
 
@@ -37,3 +37,7 @@ The public GitHub case study v1.1 describes the **documented beta state through 
 **Reconciliation trigger:** meaningful deployment, verified user acceptance, outcome measurement, portfolio publication, or correction of a material claim.
 
 [Back to case study](README.md)
+
+## Paired publication record — October 26, 2026
+
+Public case study **v1.1** is linked from the public portfolio website **v1.3** at https://darrylearley.vercel.app/. Vercel production deployment `dpl_Fw4rYcLngbxqAe2mDuw5zj3DjRih` reported READY with the public domain attached; the Library contains `SYNC_REGISTER_v1_3.md` and the authoritative portfolio HTML. This pairing is a dated manual reconciliation, not an automated sync or product acceptance result.
