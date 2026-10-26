@@ -1,6 +1,6 @@
 # T.F.B. | GroupChat — Product Management Case Study
 
-**A T.F.B. product initiative | Mobile-first group conversations with a social feed | Private beta | Public case study v1.1 | Reviewed October 26, 2026**
+**The Freeman Bureau (T.F.B.) product initiative | Mobile-first group conversations with a social feed | Private beta | Public case study v1.1 | Reviewed October 26, 2026**
 
 [Professional portfolio](https://darrylearley.vercel.app/) · [Product decision and delivery evidence (PDF)](https://darrylearley.vercel.app/GroupChat_Product_Decision_and_Delivery_Evidence.pdf) · [LinkedIn](https://www.linkedin.com/in/darryl-earley-ii-3516981a6)
 
