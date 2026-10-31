@@ -1,6 +1,6 @@
 # T.F.B. | GroupChat — Product Management Case Study
 
-**The Freeman Bureau (T.F.B.) product initiative | Mobile-first group conversations with a social feed | Private beta | Public case study v1.1 | Reviewed October 26, 2026**
+**The Freeman Bureau (T.F.B.) product initiative | Mobile-first group conversations with a social feed | Private beta | Public case study v1.2 | Reviewed October 30, 2026**
 
 [Professional portfolio](https://darrylearley.vercel.app/) · [Product decision and delivery evidence (PDF)](https://darrylearley.vercel.app/GroupChat_Product_Decision_and_Delivery_Evidence.pdf) · [LinkedIn](https://www.linkedin.com/in/darryl-earley-ii-3516981a6)
 
@@ -8,9 +8,17 @@
 
 ## Product problem and experiment
 
-Group discussions and shared content can be difficult to discover and revisit. GroupChat explores a mobile-first experience combining persistent group conversations, profiles and a familiar social feed.
+GroupChat brings together the intimacy of group messaging and the discovery of a social feed, creating a connected space where conversations can grow into communities.
 
-**First success question:** Can an invited tester join a group, create a post, and have another authorized member see it? We intentionally prioritize this outcome ahead of growing the feature list.
+Useful photos, links, and updates can disappear in busy group chats. GroupChat explores whether group conversation and a browsable social feed can help people discover and revisit what their groups share.
+
+**Current beta experience:** Group posts and replies, direct messages, images and links, GIFs, notifications, profiles, and bookmarks. The For You feed brings together pictures, links, and attached media from groups a member can access. This is group-scoped discovery, not an open network or a claim of algorithmic recommendations.
+
+Invited participation centers on the shared Beta Testing group. Other sample groups are read-only demos. The installable web app remains in active private beta; native distribution and analytics instrumentation are future work.
+
+**First success questions:** Can an invited user register and access the application? Can a registered member contribute a message, image, or link that another authorized member can see? Reliable participation takes priority over expansion.
+
+[Reusable product messaging for users, recruiters, and investor-style conversations](PRODUCT_POSITIONING.md).
 
 ## Three representative product decisions
 
@@ -58,18 +66,20 @@ flowchart LR
 
 **Not yet measured is not 0%.** [Open definitions, evidence requirements and measurement status](MEASUREMENT_SCORECARD.md).
 
-## Measures that matter
+## Two primary success measures
 
-1. Invite-based signup and return access.
-2. First post created.
-3. Cross-user post/reply visibility.
-4. Later, seven-day retention among eligible activated testers.
+1. Invited users successfully register and access the application.
+2. Registered users contribute messages, images, and links visible to authorized members.
+
+Returning access and cross-user visibility are acceptance checks supporting these measures. Retention is later learning; no validated outcome rate is yet available.
 
 These are **defined measurement goals**, not claimed performance percentages. [Acceptance and instrumentation plan](VALIDATION_PLAN.md).
 
 ## Product-management approach
 
-I use AI to accelerate discovery, analysis, requirements and prototyping while retaining ownership of problem definition, tradeoffs, priority decisions and acceptance criteria. I distinguish **implemented**, **deployed**, **tested**, **accepted** and **proven outcome**.
+As independent product owner, I manage direction, requirements, Jira priorities, beta feedback, acceptance criteria, and release decisions. I turn tester signals into scoped issues, clarify edge cases, direct AI-assisted development, review relevant build/test results, and record release scope and rollback references. Jira separates To Do, In Progress, In Review, and Done; user acceptance can remain open after a scoped change is deployed.
+
+I use AI to accelerate analysis and implementation while retaining responsibility for product judgment and validation. I distinguish **implemented**, **deployed**, **tested**, **accepted** and **proven outcome**.
 
 [Read limitations and privacy commitments](EVIDENCE_AND_LIMITATIONS.md). · [Governance and source-of-truth contract](GOVERNANCE.md) · [Change log](CHANGELOG.md).
 
