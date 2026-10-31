@@ -1,6 +1,6 @@
 # Public Case Study | Governance & Evidence Contract
 
-**Authoritative public case study:** This GitHub repository (`FreemanDesigns/groupchat-product-case-study`) · **Public version:** 1.1 · **Paired portfolio version:** 1.3 · **As-of:** October 26, 2026 · **Owner:** Darryl Earley II.
+**Authoritative public case study:** This GitHub repository (`FreemanDesigns/groupchat-product-case-study`) · **Public version:** 1.2 · **Paired portfolio:** V2.6 design with October 30 GroupChat narrative update · **As-of:** October 30, 2026 · **Owner:** Darryl Earley II.
 
 **Scope:** Sanitized product-management evidence only. The separate [portfolio site](https://darrylearley.vercel.app/) is a public presentation of selected evidence; it is **not** a competing source for milestone status. Private Jira/Asana and hosted deployment records govern actual product work and acceptance.
 
@@ -32,7 +32,7 @@
 
 ## Release consistency
 
-The public GitHub case study v1.1 describes the **documented beta state through v65**. It does not assert that GitHub contains the deployed app's latest source. Updating the case study does not fix beta defects or close acceptance tickets.
+The public GitHub case study v1.2 describes the **documented beta state through v65**. Sites metadata and the public landing page were reviewed October 30, 2026; the current reported version is 65. Authenticated user journeys were not retested. It does not assert that GitHub contains the deployed app's latest source. Updating the case study does not fix beta defects or close acceptance tickets.
 
 **Reconciliation trigger:** meaningful deployment, verified user acceptance, outcome measurement, portfolio publication, or correction of a material claim.
 
@@ -41,3 +41,11 @@ The public GitHub case study v1.1 describes the **documented beta state through 
 ## Paired publication record — October 26, 2026
 
 Public case study **v1.1** is linked from the public portfolio website **v1.3** at https://darrylearley.vercel.app/. Vercel production deployment `dpl_Fw4rYcLngbxqAe2mDuw5zj3DjRih` reported READY with the public domain attached; the Library contains `SYNC_REGISTER_v1_3.md` and the authoritative portfolio HTML. This pairing is a dated manual reconciliation, not an automated sync or product acceptance result.
+
+## Paired publication record for October 30 2026
+
+Public case study v1.2 and [reusable product positioning](PRODUCT_POSITIONING.md) align with the focused GroupChat narrative on the portfolio. Vercel production deployment `dpl_mVv7xNRjBbDKenPCKT3DrmM4j3es` reported READY with both existing public portfolio domains attached. The canonical live HTML returned HTTP 200 and exactly matched the prepared revision.
+
+Only the portfolio's GroupChat section changed. Existing CSS, JavaScript, resume PDF, evidence PDF, backlog illustration, and other site files were preserved byte for byte. The portfolio's historical evidence PDF and October 24 illustration retain their dates; they are not newly generated analytics or a live Jira board.
+
+This publication changes product presentation and documentation. It does not deploy GroupChat, close user acceptance, implement analytics, or establish GitHub application source parity. The in-app About copy is proposed for a future release.
