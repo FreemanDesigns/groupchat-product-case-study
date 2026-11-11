@@ -1,6 +1,6 @@
 # T.F.B. | GroupChat — Product Management Case Study
 
-**The Freeman Bureau (T.F.B.) product initiative | Mobile-first group conversations with a social feed | Private beta | Public case study v1.2 | Reviewed October 30, 2026**
+**The Freeman Bureau (T.F.B.) product initiative | Mobile-first group conversations with a social feed | Private beta | Public case study v1.3 | Reviewed November 10, 2026**
 
 [Professional portfolio](https://darrylearley.vercel.app/) · [Product decision and delivery evidence (PDF)](https://darrylearley.vercel.app/GroupChat_Product_Decision_and_Delivery_Evidence.pdf) · [LinkedIn](https://www.linkedin.com/in/darryl-earley-ii-3516981a6)
 
@@ -43,6 +43,12 @@ flowchart LR
 ```
 
 **Why this matters:** Deployment and automated testing can be demonstrated; complete customer outcomes cannot yet be claimed.
+
+## New product decision evidence — profile post history (staged, not released)
+
+A recent beta review identified a discoverability problem: members could find posts inside groups, but not in a unified history on a contributor's profile. I scoped a permission-aware Posts section, clarified privacy and navigation acceptance criteria, and reviewed a staged implementation. The **staged build passed 88 automated checks, including eight new SQLite-backed integration tests**. Actual device/media acceptance and production publication remain pending; no improvement in retention or engagement is claimed.
+
+[Read the scoped requirements, test evidence and release limits](PROFILE_HISTORY_ACCEPTANCE.md).
 
 ## Evidence, not inflated claims
 
