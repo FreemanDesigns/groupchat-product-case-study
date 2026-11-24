@@ -1,6 +1,6 @@
 # T.F.B. | GroupChat — Product Management Case Study
 
-**The Freeman Bureau (T.F.B.) product initiative | Mobile-first group conversations with a social feed | Private beta | Public case study v1.4 | Reviewed November 24, 2026**
+**The Freeman Bureau (T.F.B.) product initiative | Mobile-first group conversations with a social feed | Private beta | Public case study v1.5 | Reviewed November 24, 2026**
 
 [Professional portfolio](https://darrylearley.vercel.app/) · [Product decision and delivery evidence (PDF)](https://darrylearley.vercel.app/GroupChat_Product_Decision_and_Delivery_Evidence.pdf) · [LinkedIn](https://www.linkedin.com/in/darryl-earley-ii-3516981a6)
 
@@ -11,6 +11,8 @@
 [Read the updated illustrated case study](https://darrylearley.vercel.app/groupchat.html) · [Download the two-page PDF](https://darrylearley.vercel.app/GroupChat.pdf)
 
 ![GroupChat beta entry screen showing create-account and login options](https://darrylearley.vercel.app/groupchat-entry.jpg)
+
+A September 29 user confirmation closed mobile pull-to-refresh (GA-47). The broader device regression suite remained open. I required a separate affected-user check for account recovery. This distinction between a confirmed feature and an unresolved journey shaped the release decision.
 
 I prioritized reliable entry before recruiting more people. Feedback about iPhone field focus and returning-member recovery became separate requirements, with different conditions for acceptance. I directed AI-assisted implementation, reviewed the scoped release and used Jira and Asana to keep affected-user follow-up visible.
 
