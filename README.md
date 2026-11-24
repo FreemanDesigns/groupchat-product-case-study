@@ -1,10 +1,20 @@
 # T.F.B. | GroupChat — Product Management Case Study
 
-**The Freeman Bureau (T.F.B.) product initiative | Mobile-first group conversations with a social feed | Private beta | Public case study v1.3 | Reviewed November 10, 2026**
+**The Freeman Bureau (T.F.B.) product initiative | Mobile-first group conversations with a social feed | Private beta | Public case study v1.4 | Reviewed November 24, 2026**
 
 [Professional portfolio](https://darrylearley.vercel.app/) · [Product decision and delivery evidence (PDF)](https://darrylearley.vercel.app/GroupChat_Product_Decision_and_Delivery_Evidence.pdf) · [LinkedIn](https://www.linkedin.com/in/darryl-earley-ii-3516981a6)
 
 > **Disclosure:** This is a sanitized product-management case study, **not** deployable source code. The beta's operational records and application code remain private. My role includes product direction, requirements, UX decisions, prioritization, beta coordination and acceptance standards—not sole authorship of the application code.
+
+## November 24 delivery review
+
+[Read the updated illustrated case study](https://darrylearley.vercel.app/groupchat.html) · [Download the two-page PDF](https://darrylearley.vercel.app/GroupChat.pdf)
+
+![GroupChat beta entry screen showing create-account and login options](https://darrylearley.vercel.app/groupchat-entry.jpg)
+
+I prioritized reliable entry before recruiting more people. Feedback about iPhone field focus and returning-member recovery became separate requirements, with different conditions for acceptance. I directed AI-assisted implementation, reviewed the scoped release and used Jira and Asana to keep affected-user follow-up visible.
+
+The v65 release record documents eight targeted account-help and rendering checks. Sites lists version 66 at this review. GA-49 and GA-50 remain in review, cross-device membership and two-member content visibility still need acceptance evidence, and GitHub-to-host source parity remains open. The full case study explains the release decisions and proposed measurement denominators.
 
 ## Product problem and experiment
 
