@@ -18,6 +18,10 @@ I prioritized reliable entry before recruiting more people. Feedback about iPhon
 
 The v65 release record documents eight targeted account-help and rendering checks. Sites lists version 66 at this review. GA-49 and GA-50 remain in review, cross-device membership and two-member content visibility still need acceptance evidence, and GitHub-to-host source parity remains open. The full case study explains the release decisions and proposed measurement denominators.
 
+## Related independent product
+
+I also conceived and developed [Sync'd](https://darrylearley.vercel.app/syncd.html) while leading work on a screenplay. GroupChat shows how beta feedback changed a release decision. Sync'd shows how I integrated ChatGPT into a revision-aware editorial workflow.
+
 ## Product problem and experiment
 
 GroupChat brings together the intimacy of group messaging and the discovery of a social feed, creating a connected space where conversations can grow into communities.
